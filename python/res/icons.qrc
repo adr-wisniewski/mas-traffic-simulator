@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="zoomIn">icons/1325582599_zoom_in.png</file>
+    <file alias="zoomOut">icons/1325582599_zoom_out.png</file>
+    <file alias="lights">icons/1325545145_light_signal.png</file>
+    <file alias="speedLimit">icons/speed_limit.png</file>
+    <file alias="settings1">icons/1325544310_list_bullets.png</file>
+    <file alias="target">icons/1325544308_pin_map.png</file>
+    <file alias="settings2">icons/1325544305_wrench_plus_2.png</file>
+    <file alias="world">icons/1325544297_globe_3.png</file>
+    <file alias="car">icons/1325544599_car.png</file>
+    <file alias="pin">icons/1325544742_pin_map_down.png</file>
+    <file alias="pause">icons/1325542962_playback_pause.png</file>
+    <file alias="stop">icons/1325542966_playback_stop.png</file>
+    <file alias="statistics">icons/1325542968_chart_line.png</file>
+    <file alias="close">icons/1325542970_round_minus.png</file>
+    <file alias="remove">icons/1325542973_round_delete.png</file>
+    <file alias="play">icons/1325542978_playback_play.png</file>
+    <file alias="add">icons/1325542982_sq_plus.png</file>
+    <file alias="quit">icons/1325542985_on-off.png</file>
+  </qresource>
+</RCC>

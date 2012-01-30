@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="gfx/junction">
+    <file alias="end">gfx/1.svg</file>
+    <file alias="bend">gfx/2 bend.svg</file>
+    <file alias="straight">gfx/2 straight.svg</file>
+    <file alias="three">gfx/3.svg</file>
+    <file alias="four">gfx/4.svg</file>
+  </qresource>
+  <qresource prefix="gfx">
+    <file alias="start">gfx/pin_blue.svg</file>
+    <file alias="target">gfx/pin_red.svg</file>
+    <file alias="road">gfx/2 straight.svg</file>
+    <file alias="car">gfx/1325543504_car.png</file>
+  </qresource>
+</RCC>
